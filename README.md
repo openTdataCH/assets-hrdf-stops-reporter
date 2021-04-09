@@ -1,0 +1,1 @@
+These files are generated with the [OJP-Showcase hrdf-stops-reporter](https://github.com/openTdataCH/OJP-Showcase/tree/develop/tools/hrdf-stops-reporter) tool. 
